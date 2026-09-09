@@ -8,7 +8,8 @@
 > con comentarios en el código fuente. La omisión de fuentes puede considerarse plagio.
 
 ## Ejercicio 1
-- Implementación íntegramente propia, sin fuentes externas.
+- Apuntes sacados de la clase practica, codigo similar
+- IA para un bug al compilar y me ayudo con un problema entre los arhcivos de AVL.h y AVL.cpp
 
 ## Ejercicio 2
 - Implementación íntegramente propia, sin fuentes externas.

@@ -9,9 +9,20 @@
 > abiertas. Si se usó IA ese día, indicar herramienta, consulta y qué se hizo con la
 > respuesta. Una bitácora escrita íntegramente el día de la entrega implica pérdida de puntos.
 
-## AAAA-MM-DD — Nombre
-- Ejemplo: Leí la letra del ejercicio 1. Primera idea: ... pero la restricción de
-  complejidad pide ..., así que ...
+## 2026-09-09 — Rodrigo Charamelo
+- Lei la letra del ejercicio uno, por lo visto hay que implementar un dos AVL, uno para las monedas y otro para las pinturas, lo mejor seguramente sea hacer uno generico en los TADs.
+- Voy a basarme en lo hecho en la clase paractica de AVL
+- Termine de hacer el TAD basico de AVL, me quedo practicamente igual al de la clase, no se que tan bien este, pedi ayuda a la IA para hacer el .h pero a verdad que no me convence, preguntare al profesor y veo que hago con ese archivo
+- Termine de hacer el ejercicio, pense que seria mas dificl pero es una logica de casos muy sencilla
+- El codigo por alguna razon no compila, hago el comando de g++, no me tira error pero no me genera los archivos
+- llevo hace 1h buscando el problema, ya probe preguntando a la IA y no sabe ni ella, no se que hare.
+- Bueno, le di control al agente de visual y me lo pudo soucionar despues de descargar 80 cosas, no se si cuenta como uso de IA ya que el error no era del codigo en si (no toco nada de los archivos).
+- Tuve que cambiar el archivo .h de AVL por uno que contiene toda la implementacion, todo muy raro pero si no no me compilaba tampoco. me parece rarisima esta situacion. Solo me compila si pongo este comando exacto (junto):
+- g++ -std=c++11 -Wall ejercicio1.cpp -o ejercicio1.exe
+- ./ejercicio1.exe < tests/test_completo_ej1.in > mi_salida.txt"
+- este comando me lo dio la IA, no tengo idea porque solo funciona asi, pero lo unico que se es que el codigo en si anda bien ya que hice varios tests
+- Actualizacion: no anda mas con ese codigo, le tuve que mandar mensaje al profe a ver que puedo hacer, probe otras cosas y no pude. Seguire otro dia
+
 
 ## AAAA-MM-DD — En conjunto
 - Ejemplo: Implementamos ... Bug: ... Lo corregimos ...
