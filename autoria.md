@@ -9,7 +9,7 @@
 
 ## Ejercicio 1
 - Apuntes sacados de la clase practica, codigo similar
-- IA para un bug al compilar y me ayudo con un problema entre los arhcivos de AVL.h y AVL.cpp
+- IA para un bug al compilar y me ayudo con un problema entre los archivos de AVL.cpp y ejercicio1.cpp
 
 ## Ejercicio 2
 - Implementación íntegramente propia, sin fuentes externas.

@@ -22,6 +22,9 @@
 - ./ejercicio1.exe < tests/test_completo_ej1.in > mi_salida.txt"
 - este comando me lo dio la IA, no tengo idea porque solo funciona asi, pero lo unico que se es que el codigo en si anda bien ya que hice varios tests
 - Actualizacion: no anda mas con ese codigo, le tuve que mandar mensaje al profe a ver que puedo hacer, probe otras cosas y no pude. Seguire otro dia
+- Actualizacion 2: no me podia ir asi nomas, segui luchando e investigando y di con lo que parece ser la solucion, tuve que "reeinstalar" g++ con la terminal msys2, no me soluciono lo de ejecutar en visual, pero al menos en la propia terminal de msys2 puedo poner los comandos y si me los ejecuta
+- Tambien cambie el .h por el .cpp comun, quedo todo lo referido al TAD AVL en un archivo.
+- QUE QUILOMBO DE BITACORA
 
 
 ## AAAA-MM-DD — En conjunto
