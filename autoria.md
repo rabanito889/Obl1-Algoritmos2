@@ -12,7 +12,7 @@
 - IA para un bug al compilar y me ayudo con un problema entre los archivos de AVL.cpp y ejercicio1.cpp
 
 ## Ejercicio 2
-- Implementación íntegramente propia, sin fuentes externas.
+- Sintaxis y funcion hash de mis apuntes de clase, basados en el codgio del profesor, por lo tanto es similiar el codigo pero ajustado a las necesidades del ejercicio.
 
 ## Ejercicio 3
 - Implementación íntegramente propia, sin fuentes externas.

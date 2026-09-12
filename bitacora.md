@@ -26,6 +26,12 @@
 - Tambien cambie el .h por el .cpp comun, quedo todo lo referido al TAD AVL en un archivo.
 - QUE QUILOMBO DE BITACORA
 
+## 2026-09-12 — Rodrigo Charamelo
+- Leyendo el ejercicio 2, la letra parece sencilla, hay que implementar un hash abierto e ir guardando la cantidad de palabras registradas
+- Estaba haciendo el TAD de hash y se me ocurrio que si organizo alfabeticamente las palabras es mucho mas sencillo respetar el orden
+, tengo que usar una funcion que no vimos, asi que la busque en Google. esto no me va a afectar porque no tengo que devolver las palabras en ningun momento
+- Ya termine y testee el ejercicio, me parecio mas sencillo que el anterior, mi complicacion esta en la sintaxis de class y de public y private pero ya le estoy agarrando la mano.
+- Por alguna extraña razon, ahora g++ no me esta dando problemas, todo el estres del otro dia parece ser por nada jaja.
 
 ## AAAA-MM-DD — En conjunto
 - Ejemplo: Implementamos ... Bug: ... Lo corregimos ...
