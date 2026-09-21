@@ -15,7 +15,7 @@
 - Sintaxis y funcion hash de mis apuntes de clase, basados en el codgio del profesor, por lo tanto es similiar el codigo pero ajustado a las necesidades del ejercicio.
 
 ## Ejercicio 3
-- Implementación íntegramente propia, sin fuentes externas.
+- Igual que los anteriores, implementacion mia con referencia del codigo visto en clase.
 
 ## Ejercicio 4
 - Implementación íntegramente propia, sin fuentes externas.

@@ -14,7 +14,7 @@
 - Se usa tabla hash abierta, haciendo x2 el valor esperado para evitar rehashing y respetar ordenes, se ordena la palabra alfabeticamente para que no haya que recorrer y comparar varias veces, manteniendose O(L), puse contadores globales de cantidad de cajpnes y el cajon con mas palabras para que este pueda accederse en O(1)
 
 ## Ejercicio 3
-- Sin restricciones de órdenes. / Justificación: ...
+- Se utiliza un Min-Heap binario implementado sobre un arreglo (O(N) espacial) que extrae iterativamente los dos archivos de menor tamaño y reinserta su suma en tiempo O(logN)$ por paso, acumulando el costo total en variables para resolver el problema en O(N log N) en el peor caso.
 
 ## Ejercicio 4
 - Sin restricciones de órdenes. / Justificación: ...

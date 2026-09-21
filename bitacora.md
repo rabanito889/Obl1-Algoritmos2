@@ -33,6 +33,13 @@
 - Ya termine y testee el ejercicio, me parecio mas sencillo que el anterior, mi complicacion esta en la sintaxis de class y de public y private pero ya le estoy agarrando la mano.
 - Por alguna extraña razon, ahora g++ no me esta dando problemas, todo el estres del otro dia parece ser por nada jaja.
 
+## 2026-09-20 — Rodrigo Charamelo
+- Despues de unos dias, me dispongo a seguir con el ejercicio 3, ya lei la letra y hay que usar un Heap, voy a tener
+que repasar los conceptos porque no me acuerdo bien que hacia
+- Me voy a basar un poco en lo que implementamos en la clase de practico, lo voy a tener de referencia mas no quiero verlo porque si no no aprendo nada.
+- Ya termine el TAD y el ejercicio, algun error tuve pero eran cosas chicas, por ahora el mas facil de los 3.
+- Otra vez me dio problema g++, tuve que usar el terminal de msys2, pero al menos funciona todo el codigo.
+
 ## AAAA-MM-DD — En conjunto
 - Ejemplo: Implementamos ... Bug: ... Lo corregimos ...
 - Pasan los casos de prueba 1 a 4 del ejercicio 1.
