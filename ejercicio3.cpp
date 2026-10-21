@@ -8,7 +8,7 @@ using namespace std;
 
 int main()
 {
-    int n;
+    long long n;
     cin >> n;
     if(n == 1){
         cout << "0" << endl;
@@ -21,8 +21,8 @@ int main()
         heap.insertar(m);
     }
     while(heap.tamano() > 1){
-        int min = heap.eliminarYDevolver();
-        int otroMin = heap.eliminarYDevolver();
+        long long min = heap.eliminarYDevolver();
+        long long otroMin = heap.eliminarYDevolver();
         heap.sumarCosto(min+otroMin);
         heap.insertar(min+otroMin);
     }

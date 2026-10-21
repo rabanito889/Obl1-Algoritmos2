@@ -1,13 +1,7 @@
 # Bitácora — Obligatorio 1
 
-**Integrantes:** Nombre Apellido (Nº estudiante), Nombre Apellido (Nº estudiante)
+**Integrantes:** Rodrigo Charamelo - 332270 
 
-> **Instrucciones** (borrar esta sección antes de entregar): agregar una entrada por
-> cada día trabajado, indicando la fecha y quién trabajó (un integrante o "En conjunto").
-> Registrar el proceso real: ideas exploradas, decisiones y su justificación, partes de
-> implementaciones, bugs encontrados y cómo se corrigieron, resultados de pruebas y dudas
-> abiertas. Si se usó IA ese día, indicar herramienta, consulta y qué se hizo con la
-> respuesta. Una bitácora escrita íntegramente el día de la entrega implica pérdida de puntos.
 
 ## 2026-09-09 — Rodrigo Charamelo
 - Lei la letra del ejercicio uno, por lo visto hay que implementar un dos AVL, uno para las monedas y otro para las pinturas, lo mejor seguramente sea hacer uno generico en los TADs.
@@ -47,8 +41,9 @@ que repasar los conceptos porque no me acuerdo bien que hacia
 - Obviamente me sigue sin dejar ejecutar en la terminal comun, pero en mSys ejecuta y las salidas estan bien
 - Voy a tener que cambiar la gran mayoria de ints por long longs, ahora que caigo
 
+- Segui con el ejercicio 5, vi que es kruskal con mfset, sencillo ya que lo hcimos en clase.
+- Ya lo termine, este no me dio casi ningun problema.
+- Me alegro de haber terminado por fin todo esto
 
 
-## AAAA-MM-DD — En conjunto
-- Ejemplo: Implementamos ... Bug: ... Lo corregimos ...
-- Pasan los casos de prueba 1 a 4 del ejercicio 1.
+

@@ -3,13 +3,13 @@
 using namespace std;
 class MinHeap{
     private:
-    int* datos;
+    long long* datos;
     int cantidad;
     int capacidad;
-    int costo;
+    long long costo;
     public:
     MinHeap(int capacidad){
-        this->datos = new int[capacidad];
+        this->datos = new long long[capacidad];
         this->cantidad = 0;
         this->capacidad = capacidad;
         this->costo = 0;
@@ -40,7 +40,7 @@ class MinHeap{
     
     void flotar(int num){
         while(datos[num] < datos[padre(num)] && num >0){
-            int aux = datos[num];
+            long long aux = datos[num];
             datos[num] = datos[padre(num)];
             datos[padre(num)] = aux;
             num = padre(num);  
@@ -57,14 +57,14 @@ class MinHeap{
                 return;
             }
 
-            int aux = datos[num];
+            long long aux = datos[num];
             datos[num] = datos[menorH];
             datos[menorH] = aux;
             num = menorH;
         }
     }
 
-    void insertar(int num){
+    void insertar(long long num){
         if(cantidad == capacidad){
             return;
         }
@@ -73,12 +73,12 @@ class MinHeap{
         cantidad++;
     }
 
-    int eliminarYDevolver(){
+    long long eliminarYDevolver(){
         if(cantidad == 0){
             cout << "Heap vacio" << endl;
             return -1;
         }
-        int min = datos[0];
+        long long min = datos[0];
         datos[0] = datos[cantidad-1];
         cantidad --;
         if(cantidad >0){
@@ -88,7 +88,7 @@ class MinHeap{
 
     }
 
-    int tamano(){
+    long long tamano(){
         return cantidad;
     }
     
