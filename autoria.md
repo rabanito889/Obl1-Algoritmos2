@@ -18,7 +18,7 @@
 - Igual que los anteriores, implementacion mia con referencia del codigo visto en clase.
 
 ## Ejercicio 4
-- Implementación íntegramente propia, sin fuentes externas.
+- Uso de la IA para explicarme la letra y debugging, Codigo visto en clase y codigo reciclado de la parte 3
 
 ## Ejercicio 5
 - Implementación íntegramente propia, sin fuentes externas.

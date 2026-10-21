@@ -17,7 +17,7 @@
 - Se utiliza un Min-Heap binario implementado sobre un arreglo (O(N) espacial) que extrae iterativamente los dos archivos de menor tamaño y reinserta su suma en tiempo O(logN)$ por paso, acumulando el costo total en variables para resolver el problema en O(N log N) en el peor caso.
 
 ## Ejercicio 4
-- Sin restricciones de órdenes. / Justificación: ...
+- Se guarda el grafo en una lista de adyacencia y se lleva un arreglo con la cantidad de dependencias que le faltan a cada módulo, usando una idea parecida al algoritmo de orden topológico donde los módulos que quedan listos sin dependencias entran a un Min-Heap para sacar en $O(\log V)$ el de menor prioridad, logrando un tiempo de $O((V + A) \log V)$ en el peor caso
 
 ## Ejercicio 5
 - Sin restricciones de órdenes. / Justificación: ...

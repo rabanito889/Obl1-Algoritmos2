@@ -40,6 +40,15 @@ que repasar los conceptos porque no me acuerdo bien que hacia
 - Ya termine el TAD y el ejercicio, algun error tuve pero eran cosas chicas, por ahora el mas facil de los 3.
 - Otra vez me dio problema g++, tuve que usar el terminal de msys2, pero al menos funciona todo el codigo.
 
+## 2026-10-21 — Rodrigo Charamelo
+-  Un mes despues, me dispongo a seguir con el obligatorio, la verdad que fue un mes pesimo, me pasaron muchas cosas malas y no quiero estresarme mucho con esto
+- Lei la letra pero no termino de figurar como hay que hacerlo, le pedi ayuda a la IA y me dijo que es algo parecido a KHAN, por oden topologico y desp ordenado en un minHeap, visto asi no parece tan feo.
+- Ya lo logre terminar, tuve algun bug en el camino pero la IA me ayudo a encontrarlo, igualmente la gran mayoria de codigo es mio propio, el minHeap es reciclado de la parte anterior (cambiando datos)
+- Obviamente me sigue sin dejar ejecutar en la terminal comun, pero en mSys ejecuta y las salidas estan bien
+- Voy a tener que cambiar la gran mayoria de ints por long longs, ahora que caigo
+
+
+
 ## AAAA-MM-DD — En conjunto
 - Ejemplo: Implementamos ... Bug: ... Lo corregimos ...
 - Pasan los casos de prueba 1 a 4 del ejercicio 1.
